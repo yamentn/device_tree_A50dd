@@ -1,1 +1,1 @@
-TSamsung Galaxy A50 device tree for TWRP
+Samsung Galaxy A50 device tree for TWRP
