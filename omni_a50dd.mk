@@ -17,9 +17,6 @@
 # Release name
 PRODUCT_RELEASE_NAME := a50dd
 
-# Inherit from the gsm Open Source product configuration
-$(call inherit-product, vendor/omni/config/gsm.mk)
-
 # Inherit from the common Open Source product configuration
 $(call inherit-product, vendor/omni/config/common.mk)
 
